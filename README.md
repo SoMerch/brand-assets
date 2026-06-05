@@ -69,6 +69,39 @@ SoMerch helps companies manage corporate merch from idea to delivery. The platfo
 
 ---
 
+## Suggested asset names
+
+Recommended files for `assets/logos`:
+
+- `somerch-logo.svg`
+- `somerch-logo.png`
+- `somerch-icon.png`
+- `somerch-wordmark.png`
+
+Recommended files for `assets/screenshots`:
+
+- `catalog.png`
+- `product-page.png`
+- `order-tracking.png`
+- `stock-visibility.png`
+- `approval-flow.png`
+- `shipment-tracking.png`
+
+Recommended files for `assets/app-store`:
+
+- `ios-app-screenshot.png`
+- `android-app-screenshot.png`
+- `windows-app-screenshot.png`
+
+Recommended files for `assets/social`:
+
+- `linkedin-cover.png`
+- `linkedin-profile.png`
+- `product-hunt-cover.png`
+- `github-social-preview.png`
+
+---
+
 ## Usage
 
 These assets may be used for:
@@ -82,6 +115,20 @@ These assets may be used for:
 - approved marketing materials
 
 Please do not modify the SoMerch logo, colors, screenshots, or brand wording in a way that could misrepresent the product or company.
+
+---
+
+## What not to upload here
+
+Do not upload:
+
+- private design source files
+- customer screenshots
+- real customer addresses, emails, or orders
+- screenshots with internal admin data
+- credentials, API keys, tokens, or private configuration
+- font files or font license files
+- assets that SoMerch does not have the right to publish
 
 ---
 

@@ -8,21 +8,15 @@ This document is intended for partners, media, directories, launch pages, public
 
 ## Brand name
 
-The correct brand name is:
-
-```text
-SoMerch
-```
+The correct brand name is **SoMerch**.
 
 Do not use:
 
-```text
-Somerch
-SO Merch
-So Merch
-somerch
-SoMerch.co
-```
+- Somerch
+- SO Merch
+- So Merch
+- somerch
+- SoMerch.co as the brand name
 
 Use **SoMerch** as the product and company-facing brand name.
 
@@ -32,33 +26,25 @@ Use **somerch.co** only when referring specifically to the website domain.
 
 ## Tagline
 
-```text
-Merch that moves with your team.
-```
+**Merch that moves with your team.**
 
 ---
 
 ## One-line description
 
-```text
 SoMerch is a software-powered corporate merch platform and service partner for distributed companies across Europe.
-```
 
 ---
 
 ## Short description
 
-```text
 SoMerch helps companies plan, produce, store, and ship branded merch from one place.
-```
 
 ---
 
 ## Extended description
 
-```text
 SoMerch helps distributed companies manage corporate merch from idea to delivery. The platform combines curated product selection, in-house production, warehousing, inventory visibility, approvals, and EU-wide fulfillment in one managed workflow.
-```
 
 ---
 
@@ -68,9 +54,7 @@ SoMerch is positioned as a managed corporate merch platform and service partner.
 
 The core idea is simple:
 
-```text
-Corporate merch, managed from idea to delivery.
-```
+**Corporate merch, managed from idea to delivery.**
 
 SoMerch is not only a product catalog, a print shop, or a promotional products supplier. It combines software, operations, production, warehousing, and fulfillment into one managed system for modern distributed teams.
 
@@ -165,29 +149,12 @@ Avoid:
 
 Good examples:
 
-```text
-Corporate merch, managed from idea to delivery.
-```
-
-```text
-One platform for merch production, storage, and fulfillment across Europe.
-```
-
-```text
-Built for distributed teams, HR, operations, procurement, and marketing.
-```
-
-```text
-Curated products, in-house production, inventory visibility, and EU-wide shipping.
-```
-
-```text
-A better way to manage onboarding packs, employee gifts, event kits, and office merch.
-```
-
-```text
-From product selection to delivery tracking, SoMerch helps teams manage merch in one place.
-```
+- Corporate merch, managed from idea to delivery.
+- One platform for merch production, storage, and fulfillment across Europe.
+- Built for distributed teams, HR, operations, procurement, and marketing.
+- Curated products, in-house production, inventory visibility, and EU-wide shipping.
+- A better way to manage onboarding packs, employee gifts, event kits, and office merch.
+- From product selection to delivery tracking, SoMerch helps teams manage merch in one place.
 
 ---
 
@@ -195,29 +162,12 @@ From product selection to delivery tracking, SoMerch helps teams manage merch in
 
 Avoid examples like:
 
-```text
-The best merch platform in the world.
-```
-
-```text
-Unlimited products for everyone.
-```
-
-```text
-Instant global fulfillment for any order.
-```
-
-```text
-Cheap promotional products marketplace.
-```
-
-```text
-The ultimate swag solution.
-```
-
-```text
-Revolutionary merch automation.
-```
+- The best merch platform in the world.
+- Unlimited products for everyone.
+- Instant global fulfillment for any order.
+- Cheap promotional products marketplace.
+- The ultimate swag solution.
+- Revolutionary merch automation.
 
 These statements are either too broad, too generic, or too difficult to support.
 
@@ -283,15 +233,11 @@ SoMerch is built for:
 
 When referring to availability, use:
 
-```text
-SoMerch is available on web, iOS, Android, and Windows.
-```
+**SoMerch is available on web, iOS, Android, and Windows.**
 
 or:
 
-```text
-Teams can manage company merch workflows from browser, mobile, or desktop.
-```
+**Teams can manage company merch workflows from browser, mobile, or desktop.**
 
 ---
 
@@ -344,41 +290,29 @@ Do not:
 
 ### 50 characters
 
-```text
 Corporate merch for distributed teams.
-```
 
 ### 100 characters
 
-```text
 SoMerch helps distributed teams manage corporate merch from idea to delivery.
-```
 
 ### 160 characters
 
-```text
 SoMerch is a software-powered corporate merch platform for distributed teams, covering production, warehousing, inventory, and EU-wide fulfillment.
-```
 
 ### Short description
 
-```text
 SoMerch helps companies plan, produce, store, and ship branded merch from one place.
-```
 
 ### Medium description
 
-```text
 SoMerch is a software-powered corporate merch platform and service partner for distributed companies across Europe. It combines curated products, in-house production, warehousing, approvals, inventory visibility, and fulfillment workflows.
-```
 
 ### Long description
 
-```text
 SoMerch helps distributed companies manage corporate merch from idea to delivery.
 
 The platform connects product curation, production, warehousing, inventory visibility, approvals, kitting, and EU-wide fulfillment in one managed workflow. It is designed for teams that need to handle onboarding packs, employee gifting, office restocking, event kits, partner gifts, and recurring merch programs across multiple locations.
-```
 
 ---
 
@@ -401,25 +335,19 @@ When SoMerch needs to be listed in directories, marketplaces, or launch platform
 
 ## Public description for directories
 
-```text
 SoMerch is a software-powered corporate merch platform and service partner for distributed companies across Europe. It helps teams manage curated products, production, warehousing, inventory visibility, approvals, and EU-wide fulfillment from one place.
-```
 
 ---
 
 ## Public description for partners
 
-```text
 SoMerch helps companies manage corporate merch from idea to delivery. The platform combines curated product selection, in-house production, warehousing, inventory visibility, approvals, and fulfillment workflows for distributed teams across Europe.
-```
 
 ---
 
 ## Public description for app listings
 
-```text
 SoMerch helps companies manage corporate merch workflows from one place, including product selection, orders, stock visibility, approvals, and fulfillment.
-```
 
 ---
 
@@ -427,8 +355,6 @@ SoMerch helps companies manage corporate merch workflows from one place, includi
 
 SoMerch should always be presented as:
 
-```text
-A software-powered corporate merch platform and service partner for distributed companies across Europe.
-```
+**A software-powered corporate merch platform and service partner for distributed companies across Europe.**
 
 The brand should communicate operational clarity, reliability, curated quality, and managed fulfillment for modern teams.

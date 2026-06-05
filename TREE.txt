@@ -1,0 +1,18 @@
+brand-assets/
+├── README.md
+├── BRAND-GUIDELINES.md
+├── APP-LINKS.md
+├── MEDIA-KIT.md
+├── LOGO-USAGE.md
+├── assets/
+│   ├── logos/
+│   │   └── .gitkeep
+│   ├── screenshots/
+│   │   └── .gitkeep
+│   ├── app-store/
+│   │   └── .gitkeep
+│   └── social/
+│       └── .gitkeep
+└── examples/
+    ├── .gitkeep
+    └── company-description.md
