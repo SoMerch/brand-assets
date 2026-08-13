@@ -82,6 +82,18 @@ SoMerch combines production know-how, quality control, warehousing, and operatio
 
 SoMerch helps companies ship branded merch to employees, offices, events, partners, and customers across Europe.
 
+### 6. AI-powered merch planning
+
+SoMerch includes an AI-powered Merch Consultant that helps teams get recommendations, plan orders, and navigate the catalog without manual research.
+
+### 7. Public integrations
+
+SoMerch offers a public MCP server and REST API for AI agents, automation, and custom integrations — making merch data accessible to any connected tool.
+
+### 8. Curated content library
+
+SoMerch publishes structured content through Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas — helping teams discover the right products for every occasion.
+
 ---
 
 ## Preferred messaging
@@ -103,6 +115,9 @@ Use messaging around:
 - managed inventory
 - multi-address shipping
 - procurement-friendly workflows
+- AI-powered merch planning and recommendations
+- public MCP server and API integrations
+- Merch Atlas, Merch Calendar, and Gift Ideas content
 
 ---
 

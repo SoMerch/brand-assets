@@ -4,9 +4,13 @@ brand-assets/
 ├── APP-LINKS.md
 ├── MEDIA-KIT.md
 ├── LOGO-USAGE.md
+├── TREE.txt
 ├── assets/
 │   ├── logos/
-│   │   └── .gitkeep
+│   │   ├── somerch-logo.svg
+│   │   ├── somerch-logo-mark.svg
+│   │   ├── somerch-icon.png
+│   │   └── somerch-app-icon.png
 │   ├── screenshots/
 │   │   └── .gitkeep
 │   ├── app-store/
@@ -14,5 +18,4 @@ brand-assets/
 │   └── social/
 │       └── .gitkeep
 └── examples/
-    ├── .gitkeep
     └── company-description.md

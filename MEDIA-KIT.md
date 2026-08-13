@@ -90,6 +90,9 @@ SoMerch is built for:
 - multi-address shipping
 - EU-focused fulfillment
 - web, mobile, and desktop access
+- AI-powered Merch Consultant for planning and recommendations
+- Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules
+- Public MCP server and REST API for AI agent and custom integrations
 
 ---
 

@@ -19,6 +19,7 @@ This repository is intended for public brand and media resources, including:
 - basic brand usage rules
 - partner and media reference copy
 - social profile assets
+- platform feature references (Merch Consultant, Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas, Public MCP + API)
 
 ---
 
@@ -73,10 +74,10 @@ SoMerch helps companies manage corporate merch from idea to delivery. The platfo
 
 Recommended files for `assets/logos`:
 
-- `somerch-logo.svg`
-- `somerch-logo.png`
-- `somerch-icon.png`
-- `somerch-wordmark.png`
+- `somerch-logo.svg` — full wordmark logo
+- `somerch-logo-mark.svg` — icon mark on green background
+- `somerch-icon.png` — favicon / icon
+- `somerch-app-icon.png` — apple touch icon
 
 Recommended files for `assets/screenshots`:
 
