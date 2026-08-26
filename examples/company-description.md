@@ -44,7 +44,7 @@ The platform connects product curation, production, warehousing, inventory visib
 
 ## Product Hunt style description
 
-SoMerch helps distributed companies manage corporate merch from idea to delivery, with curated products, in-house production, warehousing, inventory visibility, approvals, and EU-wide fulfillment.
+SoMerch helps distributed companies manage corporate merch from idea to delivery, with curated products, in-house production, warehousing, inventory visibility, approvals, and EU-wide fulfillment. Includes a ChatGPT plugin for AI merch planning and a Zapier app for no-code automation.
 
 ---
 
@@ -55,6 +55,8 @@ SoMerch is a software-powered corporate merch platform and service partner for d
 We help teams manage branded merch from idea to delivery, including curated product selection, in-house production, warehousing, inventory visibility, approvals, kitting, and EU-wide fulfillment.
 
 Built for HR, operations, procurement, marketing, office teams, and agencies managing merch across multiple locations.
+
+Connect SoMerch to your workflow: a ChatGPT plugin for planning and quote requests in chat and a Zapier app for no-code automation.
 
 ---
 

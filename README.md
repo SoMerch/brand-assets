@@ -19,7 +19,7 @@ This repository is intended for public brand and media resources, including:
 - basic brand usage rules
 - partner and media reference copy
 - social profile assets
-- platform feature references (Merch Consultant, Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas, Public MCP + API)
+- platform feature references (Merch Consultant, Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas, Public MCP + API, ChatGPT plugin, Zapier app)
 
 ---
 

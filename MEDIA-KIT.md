@@ -93,6 +93,9 @@ SoMerch is built for:
 - AI-powered Merch Consultant for planning and recommendations
 - Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules
 - Public MCP server and REST API for AI agent and custom integrations
+- ChatGPT plugin for AI merch planning and quote requests in chat
+- Zapier app for no-code automation of merch workflows
+- Complete OpenAPI documentation for every public endpoint
 
 ---
 

@@ -88,11 +88,11 @@ SoMerch includes an AI-powered Merch Consultant that helps teams get recommendat
 
 ### 7. Public integrations
 
-SoMerch offers a public MCP server and REST API for AI agents, automation, and custom integrations — making merch data accessible to any connected tool.
+SoMerch offers a public MCP server and REST API for AI agents, automation, and custom integrations - including a ChatGPT plugin for planning and quote requests in chat and a Zapier app for no-code automation. This makes merch data accessible to any connected tool.
 
 ### 8. Curated content library
 
-SoMerch publishes structured content through Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas — helping teams discover the right products for every occasion.
+SoMerch publishes structured content through Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas - helping teams discover the right products for every occasion.
 
 ---
 
@@ -117,6 +117,8 @@ Use messaging around:
 - procurement-friendly workflows
 - AI-powered merch planning and recommendations
 - public MCP server and API integrations
+- ChatGPT plugin for merch planning in chat
+- Zapier app for no-code automation
 - Merch Atlas, Merch Calendar, and Gift Ideas content
 
 ---

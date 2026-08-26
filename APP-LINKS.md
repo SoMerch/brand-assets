@@ -36,7 +36,18 @@ Official platform and app store links for SoMerch.
 
 ## Suggested app listing description
 
-SoMerch helps companies manage corporate merch from one place, including product selection, orders, stock visibility, approvals, and fulfillment workflows. Features include an AI-powered Merch Consultant, structured content modules (Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas), and a public MCP server for AI agent integrations.
+SoMerch helps companies manage corporate merch from one place, including product selection, orders, stock visibility, approvals, and fulfillment workflows. Features include an AI-powered Merch Consultant, structured content modules (Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas), a public MCP server for AI agent integrations, a ChatGPT plugin for planning and quote requests in chat, and a Zapier app for no-code automation.
+
+---
+
+## Integrations
+
+- ChatGPT connector: `https://somerch.co/mcp`
+- Zapier app: search for "SoMerch" in Zapier
+- Interactive API reference: [docs.somerch.co/openapi.html](https://docs.somerch.co/openapi.html)
+- OpenAPI spec: [docs.somerch.co/openapi.json](https://docs.somerch.co/openapi.json)
+- Integration docs: [somerch.co/docs/integrations](https://somerch.co/docs/integrations)
+- API docs: [github.com/SoMerch/api-docs](https://github.com/SoMerch/api-docs)
 
 ---
 
