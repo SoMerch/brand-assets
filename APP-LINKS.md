@@ -63,6 +63,9 @@ In review:
 In development:
 
 - Salesforce integration
+- Deel integration
+- HubSpot integration
+- HiBob integration
 
 Latest status: [docs.somerch.co/integrations.html](https://docs.somerch.co/integrations.html)
 
