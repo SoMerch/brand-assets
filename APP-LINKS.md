@@ -42,12 +42,29 @@ SoMerch helps companies manage corporate merch from one place, including product
 
 ## Integrations
 
+Live:
+
 - ChatGPT connector: `https://somerch.co/mcp`
 - Zapier app (Zapier Marketplace): [zapier.com/apps/somerch/integrations](https://zapier.com/apps/somerch/integrations)
+- Public MCP server: `https://somerch.co/mcp`
 - Interactive API reference: [docs.somerch.co/openapi.html](https://docs.somerch.co/openapi.html)
 - OpenAPI spec: [docs.somerch.co/openapi.json](https://docs.somerch.co/openapi.json)
 - Integration docs: [somerch.co/docs/integrations](https://somerch.co/docs/integrations)
 - API docs: [github.com/SoMerch/api-docs](https://github.com/SoMerch/api-docs)
+
+In review:
+
+- ChatGPT plugin directory listing (review by OpenAI)
+- Microsoft Copilot - AI assistant built on the public MCP server
+- Canva app - find products, prepare artwork with a logo, and send a quote
+- monday.com app - create shipments and track shipment status from workflows
+- Google Sheets app (Google Workspace Marketplace)
+
+In development:
+
+- Salesforce integration
+
+Latest status: [docs.somerch.co/integrations.html](https://docs.somerch.co/integrations.html)
 
 ---
 
